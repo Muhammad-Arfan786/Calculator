@@ -1,2 +1,4 @@
 Name: Muhammad Arfan
 Roll No: 24-ST-30
+def subtract(a, b):
+    return a - b
