@@ -1,2 +1,7 @@
 Name: Muhammad Arfan
 Roll No: 24-ST-30
+def divide(a, b):
+    if b == 0:
+        return "Cannot divide by zero"
+    return a / b
+
