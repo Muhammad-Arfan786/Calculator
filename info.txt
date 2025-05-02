@@ -1,2 +1,10 @@
 Name: Muhammad Arfan
 Roll No: 24-ST-30
+ Multiplication
+def multiply(a, b):
+    return a * b
+
+
+def subtract(a, b):
+    return a - b
+ Substruction
